@@ -1,0 +1,483 @@
+.header .wrapper
+{
+ width:100%;
+ margin:auto
+}
+.banner .wrapper
+{
+ width:90%;
+ margin:auto
+}
+.posting .wrapper
+{
+ width:90%;
+ margin:auto
+}
+.image .wrapper
+{
+ width:90%;
+ margin:auto
+}
+.browse .wrapper
+{
+ width:90%;
+ margin:auto
+}
+.app .wrapper
+{
+ width:90%;
+ margin:auto
+}
+.footer .wrapper
+{
+ width:100%;
+ margin:auto
+}
+.header
+{
+	background-color:plum;
+	height:100px;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-around;
+}
+.header .header-fc .a
+{
+	text-align:center;
+	background-color:royalblue;
+	height:50px;
+	width:15%;
+	margin-top:25px;
+}
+.header .header-fc .b
+{
+	text-align:center;
+	background-color:lightblue;
+	height:50px;
+	width:5%;
+	margin-top:25px;
+	margin-left:90px;		
+}
+.header .header-fc .c
+{
+	text-align:center;	
+	background-color:royalblue;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.header .header-fc .d
+{
+	text-align:center;
+	background-color:lightblue;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.header .header-fc .e
+{
+	text-align:center;	
+	background-color:royalblue;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.header .header-fc .f
+{
+	text-align:center;	
+	background-color:lightblue;
+	height:50px;
+	width:5%;
+	margin-top:25px;	
+}
+.banner
+{
+	background-color:linen;
+	height:250px;
+}
+.banner .banner-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.banner .banner-fc .buy
+{
+	text-align:center;
+	background-color:palegreen;
+	height:100px;
+	width:70%;
+	margin-top:33px;
+}
+.banner .banner-fc .button
+{
+	text-align:center;
+	background-color:olive;
+	height:50px;
+	width:40%;
+	margin-top:33px;
+}
+.banner .banner-fc .find
+{
+	text-align:center;	
+	background-color:olive;
+	height:50px;
+	width:40%;
+	margin-top:33px;	
+}
+.posting
+{
+	background-color:palevioletred;
+	height:850px;
+}
+.posting .posting-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.posting .posting-fc .a
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.posting .posting-fc .b
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.posting .posting-fc .c
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.posting .posting-fc .d
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.posting .posting-fc .e
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.posting .posting-fc .f
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.posting .posting-fc .g
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.posting .posting-fc .h
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.posting .posting-fc .i
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.posting .posting-fc .j
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.posting .posting-fc .k
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.posting .posting-fc .l
+{
+	text-align:center;
+	background-color:peachpuff;
+	height:200px;
+	width:23%;
+	margin-top:66px;
+}
+.image
+{
+	background-color:mediumaquamarine;
+	height:500px;
+}
+.image .image-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.image .image-fc .a
+{
+	text-align:center;
+	background-color:peru;
+	height:200px;
+	width:23%;
+	margin-top:33px;
+}
+.image .image-fc .b
+{
+	text-align:center;
+	background-color:peru;
+	height:200px;
+	width:23%;
+	margin-top:33px;
+}
+.image .image-fc .c
+{
+	text-align:center;
+	background-color:peru;
+	height:200px;
+	width:23%;
+	margin-top:33px;
+}
+.image .image-fc .d
+{
+	text-align:center;
+	background-color:peru;
+	height:200px;
+	width:23%;
+	margin-top:33px;
+}
+.image .image-fc .e
+{
+	text-align:center;
+	background-color:peru;
+	height:200px;
+	width:23%;
+	margin-top:33px;
+}
+.image .image-fc .f
+{
+	text-align:center;
+	background-color:peru;
+	height:200px;
+	width:23%;
+	margin-top:33px;
+}
+.image .image-fc .g
+{
+	text-align:center;
+	background-color:peru;
+	height:200px;
+	width:23%;
+	margin-top:33px;
+}
+.image .image-fc .h
+{
+	text-align:center;
+	background-color:peru;
+	height:200px;
+	width:23%;
+	margin-top:33px;
+}
+.browse
+{
+	background-color:salmon;
+	height:400px;
+}
+.browse .browse-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.browse .browse-fc .a
+{
+	text-align:center;
+	background-color:cyan;
+	height:300px;
+	width:23%;
+	margin-top:50px;
+}
+.browse .browse-fc .b
+{
+	text-align:center;
+	background-color:cyan;
+	height:300px;
+	width:23%;
+	margin-top:50px;
+}
+.browse .browse-fc .c
+{
+	text-align:center;
+	background-color:cyan;
+	height:300px;
+	width:23%;
+	margin-top:50px;
+}
+.browse .browse-fc .d
+{
+	text-align:center;
+	background-color:cyan;
+	height:300px;
+	width:23%;
+	margin-top:50px;
+}
+.app
+{
+	background-color:linen;
+	height:250px;
+}
+.app .app-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.app .app-fc .apps
+{
+	text-align:center;
+	background-color:palegreen;
+	height:100px;
+	width:70%;
+	margin-top:33px;
+}
+.app .app-fc .android
+{
+	text-align:center;
+	background-color:olive;
+	height:50px;
+	width:40%;
+	margin-top:33px;
+}
+.app .app-fc .apple
+{
+	text-align:center;	
+	background-color:olive;
+	height:50px;
+	width:40%;
+	margin-top:33px;	
+}
+.footer
+{
+	height:500px;
+	background-color:lightblue;
+}
+.footer .footer-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.footer .footer-fc .copyright
+{
+	margin-top:80px;
+	background-color:deeppink;
+	width:15%;
+	height:250px;
+	text-align:center;
+}
+.footer .footer-fc .map
+{
+	background-color:deeppink;
+	width:15%;
+	height:250px;
+	margin-top:80px;
+    text-align:center;
+}
+.footer .footer-fc .phone
+{
+	background-color:deeppink;
+	width:15%;
+	height:250px;
+	margin-top:80px;
+	text-align:center;
+}
+.footer .footer-fc .email
+{
+	margin-top:80px;
+	background-color:deeppink;
+	width:15%;
+	height:250px;
+	text-align:center;
+}
+.footer .footer-fc .message
+{
+	background-color:deeppink;
+	width:15%;
+	height:250px;
+	margin-top:80px;
+    text-align:center;
+}
+.footer .footer-fc .boxa
+{
+	background-color:green;
+	width:30%;
+	height:50px;
+	margin-top:100px;
+	text-align:center;
+}
+.footer .footer-fc .boxb
+{
+	background-color:green;
+	width:30%;
+	height:50px;
+	margin-top:100px;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
